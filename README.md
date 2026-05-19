@@ -111,11 +111,11 @@ To evolve this project into a production-grade security tool, we propose two maj
     Wrap the trained model in a lightweight JavaScript extension to block sites on the client-side in real-time, preventing the user from even loading the malicious content.
 
 ## Citations
-"Phishipedia Dataset" - 
+"Phishipedia" Dataset:
 ```bibtex
 @inproceedings{lin2021phishpedia,
   title={Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages},
   author={Lin, Yun and Liu, Ruofan and Divakaran, Dinil Mon and Ng, Jun Yang and Chan, Qing Zhou and Lu, Yiwen and Si, Yuxuan and Zhang, Fan and Dong, Jin Song},
-  booktitle={30th \{USENIX\} Security Symposium (\{USENIX\} Security 21)},
+  booktitle={30th {USENIX} Security Symposium ({USENIX} Security 21)},
   year={2021}
 }
